@@ -72,6 +72,36 @@ Crypto Exchange Compare HQ operates a comparison site that aggregates and publis
 
 Everything profiled for Crypto Exchange Compare HQ is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cryptoexchangecomparehq-com/](https://apis.io/providers/cryptoexchangecomparehq-com/)** — or go straight to one of the APIs or properties below.
 
+### APIs (3)
+
+- [Crypto Exchange Compare HQ Dataset API](https://apis.io/apis/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-dataset-api/) — dataset
+- [Crypto Exchange Compare HQ Enquiry API](https://apis.io/apis/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-enquiry-api/) — enquiry
+- [Crypto Exchange Compare HQ MCP API](https://apis.io/apis/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-mcp-api/) — The mcp API from Crypto Exchange Compare HQ — 1 operation(s) for mcp.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Cryptoexchangecomparehq Com Agentic Access](https://apis.io/agentic-access/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Crypto Exchange Compare HQ API Rules](https://apis.io/rules/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Cryptoexchangecomparehq Com Authentication](https://apis.io/security/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-authentication/)
+- [Cryptoexchangecomparehq Com Domain Security](https://apis.io/security/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-domain-security/)
+- [Cryptoexchangecomparehq Com Vulnerability Disclosure](https://apis.io/security/cryptoexchangecomparehq-com/cryptoexchangecomparehq-com-vulnerability-disclosure/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
@@ -79,12 +109,52 @@ Links to the company's own pages. This repository publishes no copy of their spe
 - [Website](https://cryptoexchangecomparehq.com/)
 - [Documentation](https://cryptoexchangecomparehq.com/about/)
 - [Support](https://cryptoexchangecomparehq.com/contact/)
+- [Security](https://cryptoexchangecomparehq.com/terms)
 - [Terms of service](https://cryptoexchangecomparehq.com/terms/)
 - [Privacy policy](https://cryptoexchangecomparehq.com/privacy/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/cryptoexchangecomparehq-com/](https://apis.io/providers/cryptoexchangecomparehq-com/).
+**Kin Score 40.7** — developing · rubric 0.25.0 · scored 2026-11-05
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 45.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 32.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 33.3** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 28.7** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/cryptoexchangecomparehq-com/](https://apis.io/providers/cryptoexchangecomparehq-com/).
 
 ## How this profile is made
 
